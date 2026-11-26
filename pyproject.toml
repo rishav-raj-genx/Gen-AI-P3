@@ -1,0 +1,13 @@
+[project]
+name = "gen-ai-pdf-qa"
+version = "0.1.0"
+description = "PDF Semantic Search & Retrieval using LangChain, ChromaDB, and HuggingFace Embeddings"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "langchain-chroma>=0.2.0",
+    "langchain-huggingface>=0.1.0",
+    "langchain-text-splitters>=0.3.0",
+    "pypdf>=5.0.0",
+    "sentence-transformers>=3.0.0",
+]
