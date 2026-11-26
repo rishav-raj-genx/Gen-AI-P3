@@ -31,8 +31,8 @@ A lightweight, local semantic search and retrieval tool for PDF documents powere
 
 1. Clone repository:
    ```bash
-   git clone https://github.com/rishav-raj-genx/Gen-AI-Project-py.git
-   cd Gen-AI-Project-py
+   git clone https://github.com/rishav-raj-genx/Gen-AI-P3.git
+   cd Gen-AI-P3
    ```
 
 2. Initialize virtual environment and install dependencies using `uv`:
